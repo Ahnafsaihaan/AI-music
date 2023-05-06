@@ -13,44 +13,16 @@ body
     font-size: 15px;
     color: black;
 }
-.div_speed
+.song_name_button
 {
-    float: left;
-}
-.div_speed_img
-{
-    width: 200px;
-    border-radius: 100px;
-}
-#speed
-{
-    font-size: 23px;
-    margin: 15px;
-}
-.div_volume
-{
-    float: right;
-}
-.div_volume_img
-{
-    width: 200px;
-    border-radius: 100px;
-}
-#volume
-{
-    font-size: 23px;
-    margin: 15px;
-}
-.play_button
-{
-    width: 130px;
+    width: fit-content;
     font-size: 25px;
 }
 canvas
 {
     border: 5px solid blue;
     border-radius: 20px;
-    margin-top: 100px;
+    margin-top: 200px;
     background-color: #000000;
     box-shadow: 5px 5px 5px palevioletred;
 }
